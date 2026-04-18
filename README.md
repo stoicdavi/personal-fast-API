@@ -36,6 +36,7 @@ Visit: `http://127.0.0.1:8000`
 ### Step 1 — Launch EC2 Instance
 
 - AMI: Ubuntu 22.04 LTS
+- Create a key pair
 - Subnet: Public subnet with **Auto-assign public IP** enabled
 - Security Group inbound rules:
 
